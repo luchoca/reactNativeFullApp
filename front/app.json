@@ -1,0 +1,12 @@
+
+{
+  "expo": {
+    "scheme":"myapp",
+    "name": "Ecommerce",
+    "slug": "Ecommerce",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

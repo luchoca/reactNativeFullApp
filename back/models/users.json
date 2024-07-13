@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Luciano",
+    "apellido": "Castro",
+    "email": "lucho@mail",
+    "cedula": "12345",
+    "password": "123"
+  },
+  {
+    "nombre": "lucas",
+    "apellido": "lucas",
+    "email": "lucho@mail.com",
+    "cedula": "7878123123",
+    "password": "123"
+  },
+  {
+    "nombre": "asfafasf",
+    "apellido": "afsasfasfasfasf",
+    "email": "lucas@mail.com",
+    "cedula": "11111111",
+    "password": "123"
+  },
+  {
+    "nombre": "Rosana",
+    "apellido": "Saad",
+    "email": "rosana@mimama.com",
+    "cedula": "34848490",
+    "password": "123456"
+  },
+  {
+    "nombre": "Rosana",
+    "apellido": "Saad",
+    "email": "rosana@mail.com",
+    "cedula": "34848490",
+    "password": "123"
+  }
+]
